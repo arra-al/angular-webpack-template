@@ -1,0 +1,180 @@
+[12:17:27.923] Global cache location '/home/gezim/.cache/typescript/3.7', safe file path '/home/gezim/dev/web/webpack-ts/node_modules/typescript/lib/typingSafeList.json', types map path /home/gezim/dev/web/webpack-ts/node_modules/typescript/lib/typesMap.json
+[12:17:27.924] Processing cache location '/home/gezim/.cache/typescript/3.7'
+[12:17:27.924] Trying to find '/home/gezim/.cache/typescript/3.7/package.json'...
+[12:17:27.927] Loaded content of '/home/gezim/.cache/typescript/3.7/package.json': {"private":true,"dependencies":{"types-registry":"^0.1.472"},"devDependencies":{"@types/async":"^3.0.3","@types/atob":"^2.1.2","@types/autoprefixer":"^9.6.1","@types/bootstrap":"^4.3.1","@types/browser-sync":"^2.26.1","@types/browser-sync-webpack-plugin":"^2.2.0","@types/cache-manager":"^2.10.1","@types/clean-css":"^4.2.1","@types/copy-webpack-plugin":"^5.0.0","@types/core-js":"^2.5.2","@types/d3":"^5.7.2","@types/d3-format":"^1.3.1","@types/d3-time-format":"^2.1.1","@types/debug":"^4.1.5","@types/define-properties":"^1.1.1","@types/eslint":"^6.1.3","@types/file-saver":"^2.0.1","@types/friendly-errors-webpack-plugin":"^0.1.2","@types/graceful-fs":"^4.1.3","@types/hammerjs":"^2.0.36","@types/he":"^1.1.0","@types/html-minifier":"^3.5.3","@types/html-webpack-plugin":"^3.2.1","@types/imurmurhash":"^0.1.0","@types/jest":"^24.0.24","@types/jquery":"^3.3.31","@types/jsoneditor":"^5.28.2","@types/jspdf":"^1.3.3","@types/less":"^3.0.1","@types/lodash":"^4.14.149","@types/lodash.difference":"^4.5.6","@types/mini-css-extract-plugin":"^0.9.0","@types/mkdirp":"^0.5.2","@types/node-notifier":"^5.4.0","@types/nodemon":"^1.19.0","@types/object-assign":"^4.0.30","@types/object-hash":"^1.3.0","@types/object-path":"^0.11.0","@types/optimize-css-assets-webpack-plugin":"^5.0.1","@types/pg":"^7.14.0","@types/prettier":"^1.19.0","@types/relateurl":"^0.2.28","@types/rimraf":"^2.0.3","@types/sass":"^1.16.0","@types/serialize-javascript":"^1.5.0","@types/signal-exit":"^3.0.0","@types/sockjs-client":"^1.1.1","@types/sprintf":"^0.1.0","@types/terser-webpack-plugin":"^2.2.0","@types/toposort":"^2.0.3","@types/ua-parser-js":"^0.7.33","@types/util.promisify":"^1.0.1","@types/uuid":"^3.4.6","@types/wait-on":"^3.2.0","@types/web-animations-js":"^2.2.8","@types/webpack":"^4.41.1","@types/webpack-dev-server":"^3.9.0","@types/webpack-merge":"^4.1.5","@types/webpack-notifier":"^1.5.3","@types/workbox-webpack-plugin":"^4.1.0","@types/write-file-atomic":"^3.0.0"}}
+[12:17:27.927] Loaded content of '/home/gezim/.cache/typescript/3.7/package-lock.json'
+[12:17:27.937] Adding entry into typings cache: 'async' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/async/index.d.ts'
+[12:17:27.943] Adding entry into typings cache: 'atob' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/atob/index.d.ts'
+[12:17:27.946] Adding entry into typings cache: 'autoprefixer' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/autoprefixer/index.d.ts'
+[12:17:27.949] Adding entry into typings cache: 'bootstrap' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/bootstrap/index.d.ts'
+[12:17:27.952] Adding entry into typings cache: 'browser-sync' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/browser-sync/index.d.ts'
+[12:17:27.953] Adding entry into typings cache: 'browser-sync-webpack-plugin' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/browser-sync-webpack-plugin/index.d.ts'
+[12:17:27.955] Adding entry into typings cache: 'cache-manager' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/cache-manager/index.d.ts'
+[12:17:27.959] Adding entry into typings cache: 'clean-css' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/clean-css/index.d.ts'
+[12:17:27.961] Adding entry into typings cache: 'copy-webpack-plugin' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/copy-webpack-plugin/index.d.ts'
+[12:17:27.963] Adding entry into typings cache: 'core-js' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/core-js/index.d.ts'
+[12:17:27.966] Adding entry into typings cache: 'd3' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/d3/index.d.ts'
+[12:17:27.968] Adding entry into typings cache: 'd3-format' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/d3-format/index.d.ts'
+[12:17:27.971] Adding entry into typings cache: 'd3-time-format' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/d3-time-format/index.d.ts'
+[12:17:27.975] Adding entry into typings cache: 'debug' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/debug/index.d.ts'
+[12:17:27.977] Adding entry into typings cache: 'define-properties' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/define-properties/index.d.ts'
+[12:17:27.980] Adding entry into typings cache: 'eslint' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/eslint/ts3.1/index.d.ts'
+[12:17:27.982] Adding entry into typings cache: 'file-saver' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/file-saver/index.d.ts'
+[12:17:27.985] Adding entry into typings cache: 'friendly-errors-webpack-plugin' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/friendly-errors-webpack-plugin/index.d.ts'
+[12:17:27.991] Adding entry into typings cache: 'graceful-fs' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/graceful-fs/index.d.ts'
+[12:17:27.995] Adding entry into typings cache: 'hammerjs' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/hammerjs/index.d.ts'
+[12:17:27.997] Adding entry into typings cache: 'he' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/he/index.d.ts'
+[12:17:27.999] Adding entry into typings cache: 'html-minifier' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/html-minifier/index.d.ts'
+[12:17:28.1] Adding entry into typings cache: 'html-webpack-plugin' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/html-webpack-plugin/index.d.ts'
+[12:17:28.4] Adding entry into typings cache: 'imurmurhash' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/imurmurhash/index.d.ts'
+[12:17:28.8] Adding entry into typings cache: 'jest' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/jest/index.d.ts'
+[12:17:28.10] Adding entry into typings cache: 'jquery' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/jquery/index.d.ts'
+[12:17:28.11] Adding entry into typings cache: 'jsoneditor' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/jsoneditor/index.d.ts'
+[12:17:28.13] Adding entry into typings cache: 'jspdf' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/jspdf/index.d.ts'
+[12:17:28.14] Adding entry into typings cache: 'less' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/less/index.d.ts'
+[12:17:28.17] Adding entry into typings cache: 'lodash' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/lodash/ts3.1/index.d.ts'
+[12:17:28.18] Adding entry into typings cache: 'lodash.difference' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/lodash.difference/index.d.ts'
+[12:17:28.20] Adding entry into typings cache: 'mini-css-extract-plugin' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/mini-css-extract-plugin/index.d.ts'
+[12:17:28.22] Adding entry into typings cache: 'mkdirp' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/mkdirp/index.d.ts'
+[12:17:28.24] Adding entry into typings cache: 'node-notifier' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/node-notifier/index.d.ts'
+[12:17:28.26] Adding entry into typings cache: 'nodemon' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/nodemon/index.d.ts'
+[12:17:28.28] Adding entry into typings cache: 'object-assign' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/object-assign/index.d.ts'
+[12:17:28.30] Adding entry into typings cache: 'object-hash' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/object-hash/index.d.ts'
+[12:17:28.32] Adding entry into typings cache: 'object-path' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/object-path/index.d.ts'
+[12:17:28.33] Adding entry into typings cache: 'optimize-css-assets-webpack-plugin' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/optimize-css-assets-webpack-plugin/index.d.ts'
+[12:17:28.35] Adding entry into typings cache: 'pg' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/pg/index.d.ts'
+[12:17:28.36] Adding entry into typings cache: 'prettier' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/prettier/index.d.ts'
+[12:17:28.37] Adding entry into typings cache: 'relateurl' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/relateurl/index.d.ts'
+[12:17:28.39] Adding entry into typings cache: 'rimraf' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/rimraf/index.d.ts'
+[12:17:28.40] Adding entry into typings cache: 'sass' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/sass/index.d.ts'
+[12:17:28.41] Adding entry into typings cache: 'serialize-javascript' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/serialize-javascript/index.d.ts'
+[12:17:28.43] Adding entry into typings cache: 'signal-exit' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/signal-exit/index.d.ts'
+[12:17:28.44] Adding entry into typings cache: 'sockjs-client' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/sockjs-client/index.d.ts'
+[12:17:28.45] Adding entry into typings cache: 'sprintf' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/sprintf/index.d.ts'
+[12:17:28.46] Adding entry into typings cache: 'terser-webpack-plugin' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/terser-webpack-plugin/index.d.ts'
+[12:17:28.48] Adding entry into typings cache: 'toposort' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/toposort/index.d.ts'
+[12:17:28.49] Adding entry into typings cache: 'ua-parser-js' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/ua-parser-js/index.d.ts'
+[12:17:28.50] Adding entry into typings cache: 'util.promisify' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/util.promisify/index.d.ts'
+[12:17:28.52] Adding entry into typings cache: 'uuid' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/uuid/index.d.ts'
+[12:17:28.53] Adding entry into typings cache: 'wait-on' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/wait-on/index.d.ts'
+[12:17:28.54] Adding entry into typings cache: 'web-animations-js' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/web-animations-js/ts3.2/index.d.ts'
+[12:17:28.57] Adding entry into typings cache: 'webpack' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/webpack/index.d.ts'
+[12:17:28.58] Adding entry into typings cache: 'webpack-dev-server' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/webpack-dev-server/index.d.ts'
+[12:17:28.59] Adding entry into typings cache: 'webpack-merge' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/webpack-merge/index.d.ts'
+[12:17:28.61] Adding entry into typings cache: 'webpack-notifier' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/webpack-notifier/index.d.ts'
+[12:17:28.62] Adding entry into typings cache: 'workbox-webpack-plugin' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/workbox-webpack-plugin/index.d.ts'
+[12:17:28.63] Adding entry into typings cache: 'write-file-atomic' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/write-file-atomic/index.d.ts'
+[12:17:28.64] Finished processing cache location '/home/gezim/.cache/typescript/3.7'
+[12:17:28.64] Process id: 6793
+[12:17:28.64] NPM location: /home/gezim/.nvm/versions/node/v10.17.0/bin/npm (explicit '--npmLocation' not  provided)
+[12:17:28.64] validateDefaultNpmLocation: false
+[12:17:28.64] Npm config file: /home/gezim/.cache/typescript/3.7/package.json
+[12:17:28.64] Updating types-registry npm package...
+[12:17:28.64] Exec: /home/gezim/.nvm/versions/node/v10.17.0/bin/npm install --ignore-scripts types-registry@latest
+[12:17:31.768]     Succeeded. stdout:
+    + types-registry@0.1.472
+    updated 1 package and audited 4660 packages in 3.164s
+found 0 vulnerabilities
+
+
+[12:17:31.768] Updated types-registry npm package
+[12:17:31.966] Got install request {"projectName":"/dev/null/inferredProject1*","fileNames":["/home/gezim/dev/web/webpack-ts/node_modules/typescript/lib/lib.d.ts","/home/gezim/dev/web/webpack-ts/node_modules/typescript/lib/lib.es5.d.ts","/home/gezim/dev/web/webpack-ts/node_modules/typescript/lib/lib.dom.d.ts","/home/gezim/dev/web/webpack-ts/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","/home/gezim/dev/web/webpack-ts/node_modules/typescript/lib/lib.scripthost.d.ts","/home/gezim/dev/web/webpack-ts/webpack/utils.js","/home/gezim/dev/web/webpack-ts/webpack/webpack.common.js","/home/gezim/dev/web/webpack-ts/webpack/webpack.dev.js"],"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":["figures","filesize","log-update","simple-progress-webpack-plugin","webpack","write-file-webpack-plugin"],"projectRootPath":"/home/gezim/dev/web/webpack-ts/webpack","kind":"discover"}
+[12:17:31.979] Loaded safelist from types map file '/home/gezim/dev/web/webpack-ts/node_modules/typescript/lib/typesMap.json'
+[12:17:31.979] Explicitly included types: []
+[12:17:31.980] Inferred typings from unresolved imports: ["figures","filesize","log-update","simple-progress-webpack-plugin","webpack","write-file-webpack-plugin"]
+[12:17:31.981] Result: {"cachedTypingPaths":["/home/gezim/.cache/typescript/3.7/node_modules/@types/webpack/index.d.ts"],"newTypingNames":["figures","filesize","log-update","simple-progress-webpack-plugin","write-file-webpack-plugin"],"filesToWatch":["/home/gezim/dev/web/webpack-ts/webpack/bower_components","/home/gezim/dev/web/webpack-ts/webpack/node_modules"]}
+[12:17:31.981] Finished typings discovery: {"cachedTypingPaths":["/home/gezim/.cache/typescript/3.7/node_modules/@types/webpack/index.d.ts"],"newTypingNames":["figures","filesize","log-update","simple-progress-webpack-plugin","write-file-webpack-plugin"],"filesToWatch":["/home/gezim/dev/web/webpack-ts/webpack/bower_components","/home/gezim/dev/web/webpack-ts/webpack/node_modules"]}
+[12:17:31.981] DirectoryWatcher:: Added:: WatchInfo: /home/gezim/dev/web/webpack-ts/webpack/bower_components
+[12:17:31.982] DirectoryWatcher:: Added:: WatchInfo: /home/gezim/dev/web/webpack-ts/webpack/node_modules
+[12:17:31.983] Installing typings ["figures","filesize","log-update","simple-progress-webpack-plugin","write-file-webpack-plugin"]
+[12:17:31.983] 'figures':: Entry for package 'figures' does not exist in local types registry - skipping...
+[12:17:31.983] 'filesize':: Entry for package 'filesize' does not exist in local types registry - skipping...
+[12:17:31.983] 'log-update':: Entry for package 'log-update' does not exist in local types registry - skipping...
+[12:17:31.983] 'simple-progress-webpack-plugin':: Entry for package 'simple-progress-webpack-plugin' does not exist in local types registry - skipping...
+[12:17:31.983] 'write-file-webpack-plugin':: Entry for package 'write-file-webpack-plugin' does not exist in local types registry - skipping...
+[12:17:31.983] All typings are known to be missing or invalid - no need to install more typings
+[12:17:31.983] Sending response:
+    {"projectName":"/dev/null/inferredProject1*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":["/home/gezim/.cache/typescript/3.7/node_modules/@types/webpack/index.d.ts"],"unresolvedImports":["figures","filesize","log-update","simple-progress-webpack-plugin","webpack","write-file-webpack-plugin"],"kind":"action::set"}
+[12:17:31.983] Response has been sent.
+[18:51:57.807] Got install request {"projectName":"/dev/null/inferredProject2*","fileNames":["/home/gezim/dev/web/webpack-ts/node_modules/typescript/lib/lib.d.ts","/home/gezim/dev/web/webpack-ts/node_modules/typescript/lib/lib.es5.d.ts","/home/gezim/dev/web/webpack-ts/node_modules/typescript/lib/lib.dom.d.ts","/home/gezim/dev/web/webpack-ts/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","/home/gezim/dev/web/webpack-ts/node_modules/typescript/lib/lib.scripthost.d.ts","/home/gezim/dev/web/webpack-ts/webpack/utils.js","/home/gezim/dev/web/webpack-ts/webpack/webpack.common.js","/home/gezim/dev/web/webpack-ts/webpack/webpack.prod.js"],"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":["@angular/compiler-cli","moment-locales-webpack-plugin","webpack-visualizer-plugin"],"projectRootPath":"/home/gezim/dev/web/webpack-ts/webpack","kind":"discover"}
+[18:51:57.810] Explicitly included types: []
+[18:51:57.810] Inferred typings from unresolved imports: ["@angular/compiler-cli","moment-locales-webpack-plugin","webpack-visualizer-plugin"]
+[18:51:57.810] Result: {"cachedTypingPaths":[],"newTypingNames":["@angular/compiler-cli","moment-locales-webpack-plugin","webpack-visualizer-plugin"],"filesToWatch":["/home/gezim/dev/web/webpack-ts/webpack/bower_components","/home/gezim/dev/web/webpack-ts/webpack/node_modules"]}
+[18:51:57.810] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":["@angular/compiler-cli","moment-locales-webpack-plugin","webpack-visualizer-plugin"],"filesToWatch":["/home/gezim/dev/web/webpack-ts/webpack/bower_components","/home/gezim/dev/web/webpack-ts/webpack/node_modules"]}
+[18:51:57.810] DirectoryWatcher:: Added:: WatchInfo: /home/gezim/dev/web/webpack-ts/webpack/bower_components
+[18:51:57.811] DirectoryWatcher:: Added:: WatchInfo: /home/gezim/dev/web/webpack-ts/webpack/node_modules
+[18:51:57.811] Installing typings ["@angular/compiler-cli","moment-locales-webpack-plugin","webpack-visualizer-plugin"]
+[18:51:57.811] '@angular/compiler-cli':: Entry for package 'angular__compiler-cli' does not exist in local types registry - skipping...
+[18:51:57.811] 'moment-locales-webpack-plugin':: Entry for package 'moment-locales-webpack-plugin' does not exist in local types registry - skipping...
+[18:51:57.811] 'webpack-visualizer-plugin':: Entry for package 'webpack-visualizer-plugin' does not exist in local types registry - skipping...
+[18:51:57.811] All typings are known to be missing or invalid - no need to install more typings
+[18:51:57.811] Sending response:
+    {"projectName":"/dev/null/inferredProject2*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":[],"unresolvedImports":["@angular/compiler-cli","moment-locales-webpack-plugin","webpack-visualizer-plugin"],"kind":"action::set"}
+[18:51:57.811] Response has been sent.
+[19:23:24.345] Got install request {"projectName":"/dev/null/inferredProject1*","fileNames":["/home/gezim/dev/web/webpack-ts/node_modules/typescript/lib/lib.d.ts","/home/gezim/dev/web/webpack-ts/node_modules/typescript/lib/lib.es5.d.ts","/home/gezim/dev/web/webpack-ts/node_modules/typescript/lib/lib.dom.d.ts","/home/gezim/dev/web/webpack-ts/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","/home/gezim/dev/web/webpack-ts/node_modules/typescript/lib/lib.scripthost.d.ts","/home/gezim/.cache/typescript/3.7/node_modules/@types/webpack/index.d.ts","/home/gezim/dev/web/webpack-ts/webpack/utils.js","/home/gezim/dev/web/webpack-ts/webpack/webpack.common.js","/home/gezim/dev/web/webpack-ts/webpack/webpack.dev.js"],"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":["figures","filesize","log-update","simple-progress-webpack-plugin","webpack","write-file-webpack-plugin"],"projectRootPath":"/home/gezim/dev/web/webpack-ts/webpack","kind":"discover"}
+[19:23:24.345] Explicitly included types: []
+[19:23:24.345] Inferred typings from unresolved imports: ["figures","filesize","log-update","simple-progress-webpack-plugin","webpack","write-file-webpack-plugin"]
+[19:23:24.345] Result: {"cachedTypingPaths":["/home/gezim/.cache/typescript/3.7/node_modules/@types/webpack/index.d.ts"],"newTypingNames":["figures","filesize","log-update","simple-progress-webpack-plugin","write-file-webpack-plugin"],"filesToWatch":["/home/gezim/dev/web/webpack-ts/webpack/bower_components","/home/gezim/dev/web/webpack-ts/webpack/node_modules"]}
+[19:23:24.346] Finished typings discovery: {"cachedTypingPaths":["/home/gezim/.cache/typescript/3.7/node_modules/@types/webpack/index.d.ts"],"newTypingNames":["figures","filesize","log-update","simple-progress-webpack-plugin","write-file-webpack-plugin"],"filesToWatch":["/home/gezim/dev/web/webpack-ts/webpack/bower_components","/home/gezim/dev/web/webpack-ts/webpack/node_modules"]}
+[19:23:24.346] Installing typings ["figures","filesize","log-update","simple-progress-webpack-plugin","write-file-webpack-plugin"]
+[19:23:24.346] 'figures':: Entry for package 'figures' does not exist in local types registry - skipping...
+[19:23:24.346] 'filesize':: Entry for package 'filesize' does not exist in local types registry - skipping...
+[19:23:24.346] 'log-update':: Entry for package 'log-update' does not exist in local types registry - skipping...
+[19:23:24.346] 'simple-progress-webpack-plugin':: Entry for package 'simple-progress-webpack-plugin' does not exist in local types registry - skipping...
+[19:23:24.346] 'write-file-webpack-plugin':: Entry for package 'write-file-webpack-plugin' does not exist in local types registry - skipping...
+[19:23:24.346] All typings are known to be missing or invalid - no need to install more typings
+[19:23:24.346] Sending response:
+    {"projectName":"/dev/null/inferredProject1*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":["/home/gezim/.cache/typescript/3.7/node_modules/@types/webpack/index.d.ts"],"unresolvedImports":["figures","filesize","log-update","simple-progress-webpack-plugin","webpack","write-file-webpack-plugin"],"kind":"action::set"}
+[19:23:24.346] Response has been sent.
+[19:23:24.346] Got install request {"projectName":"/dev/null/inferredProject2*","fileNames":["/home/gezim/dev/web/webpack-ts/node_modules/typescript/lib/lib.d.ts","/home/gezim/dev/web/webpack-ts/node_modules/typescript/lib/lib.es5.d.ts","/home/gezim/dev/web/webpack-ts/node_modules/typescript/lib/lib.dom.d.ts","/home/gezim/dev/web/webpack-ts/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","/home/gezim/dev/web/webpack-ts/node_modules/typescript/lib/lib.scripthost.d.ts","/home/gezim/dev/web/webpack-ts/webpack/utils.js","/home/gezim/dev/web/webpack-ts/webpack/webpack.common.js","/home/gezim/dev/web/webpack-ts/webpack/webpack.prod.js"],"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":["@angular/compiler-cli","moment-locales-webpack-plugin","webpack-visualizer-plugin"],"projectRootPath":"/home/gezim/dev/web/webpack-ts/webpack","kind":"discover"}
+[19:23:24.347] Explicitly included types: []
+[19:23:24.347] Inferred typings from unresolved imports: ["@angular/compiler-cli","moment-locales-webpack-plugin","webpack-visualizer-plugin"]
+[19:23:24.347] Result: {"cachedTypingPaths":[],"newTypingNames":["@angular/compiler-cli","moment-locales-webpack-plugin","webpack-visualizer-plugin"],"filesToWatch":["/home/gezim/dev/web/webpack-ts/webpack/bower_components","/home/gezim/dev/web/webpack-ts/webpack/node_modules"]}
+[19:23:24.347] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":["@angular/compiler-cli","moment-locales-webpack-plugin","webpack-visualizer-plugin"],"filesToWatch":["/home/gezim/dev/web/webpack-ts/webpack/bower_components","/home/gezim/dev/web/webpack-ts/webpack/node_modules"]}
+[19:23:24.347] Installing typings ["@angular/compiler-cli","moment-locales-webpack-plugin","webpack-visualizer-plugin"]
+[19:23:24.347] '@angular/compiler-cli':: Entry for package 'angular__compiler-cli' does not exist in local types registry - skipping...
+[19:23:24.347] 'moment-locales-webpack-plugin':: Entry for package 'moment-locales-webpack-plugin' does not exist in local types registry - skipping...
+[19:23:24.347] 'webpack-visualizer-plugin':: Entry for package 'webpack-visualizer-plugin' does not exist in local types registry - skipping...
+[19:23:24.347] All typings are known to be missing or invalid - no need to install more typings
+[19:23:24.347] Sending response:
+    {"projectName":"/dev/null/inferredProject2*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":[],"unresolvedImports":["@angular/compiler-cli","moment-locales-webpack-plugin","webpack-visualizer-plugin"],"kind":"action::set"}
+[19:23:24.348] Response has been sent.
+[21:28:55.35] Got install request {"projectName":"/dev/null/inferredProject2*","fileNames":["/home/gezim/dev/web/webpack-ts/node_modules/typescript/lib/lib.d.ts","/home/gezim/dev/web/webpack-ts/node_modules/typescript/lib/lib.es5.d.ts","/home/gezim/dev/web/webpack-ts/node_modules/typescript/lib/lib.dom.d.ts","/home/gezim/dev/web/webpack-ts/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","/home/gezim/dev/web/webpack-ts/node_modules/typescript/lib/lib.scripthost.d.ts","/home/gezim/dev/web/webpack-ts/webpack/utils.js","/home/gezim/dev/web/webpack-ts/webpack/webpack.common.js","/home/gezim/dev/web/webpack-ts/webpack/webpack.prod.js"],"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":["@angular/compiler","@bazel/typescript","moment-locales-webpack-plugin","webpack-visualizer-plugin"],"projectRootPath":"/home/gezim/dev/web/webpack-ts/webpack","kind":"discover"}
+[21:28:55.36] Explicitly included types: []
+[21:28:55.36] Inferred typings from unresolved imports: ["@angular/compiler","@bazel/typescript","moment-locales-webpack-plugin","webpack-visualizer-plugin"]
+[21:28:55.36] Result: {"cachedTypingPaths":[],"newTypingNames":["@angular/compiler","@bazel/typescript","moment-locales-webpack-plugin","webpack-visualizer-plugin"],"filesToWatch":["/home/gezim/dev/web/webpack-ts/webpack/bower_components","/home/gezim/dev/web/webpack-ts/webpack/node_modules"]}
+[21:28:55.36] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":["@angular/compiler","@bazel/typescript","moment-locales-webpack-plugin","webpack-visualizer-plugin"],"filesToWatch":["/home/gezim/dev/web/webpack-ts/webpack/bower_components","/home/gezim/dev/web/webpack-ts/webpack/node_modules"]}
+[21:28:55.36] Installing typings ["@angular/compiler","@bazel/typescript","moment-locales-webpack-plugin","webpack-visualizer-plugin"]
+[21:28:55.37] '@angular/compiler':: Entry for package 'angular__compiler' does not exist in local types registry - skipping...
+[21:28:55.37] '@bazel/typescript':: Entry for package 'bazel__typescript' does not exist in local types registry - skipping...
+[21:28:55.37] 'moment-locales-webpack-plugin':: Entry for package 'moment-locales-webpack-plugin' does not exist in local types registry - skipping...
+[21:28:55.37] 'webpack-visualizer-plugin':: Entry for package 'webpack-visualizer-plugin' does not exist in local types registry - skipping...
+[21:28:55.37] All typings are known to be missing or invalid - no need to install more typings
+[21:28:55.37] Sending response:
+    {"projectName":"/dev/null/inferredProject2*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":[],"unresolvedImports":["@angular/compiler","@bazel/typescript","moment-locales-webpack-plugin","webpack-visualizer-plugin"],"kind":"action::set"}
+[21:28:55.37] Response has been sent.
+[21:39:7.511] Got install request {"projectName":"/dev/null/inferredProject2*","fileNames":["/home/gezim/dev/web/webpack-ts/node_modules/typescript/lib/lib.d.ts","/home/gezim/dev/web/webpack-ts/node_modules/typescript/lib/lib.es5.d.ts","/home/gezim/dev/web/webpack-ts/node_modules/typescript/lib/lib.dom.d.ts","/home/gezim/dev/web/webpack-ts/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","/home/gezim/dev/web/webpack-ts/node_modules/typescript/lib/lib.scripthost.d.ts","/home/gezim/dev/web/webpack-ts/webpack/utils.js","/home/gezim/dev/web/webpack-ts/webpack/webpack.common.js","/home/gezim/dev/web/webpack-ts/webpack/webpack.prod.js"],"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":["@bazel/typescript","moment-locales-webpack-plugin","webpack-visualizer-plugin"],"projectRootPath":"/home/gezim/dev/web/webpack-ts/webpack","kind":"discover"}
+[21:39:7.511] Explicitly included types: []
+[21:39:7.511] Inferred typings from unresolved imports: ["@bazel/typescript","moment-locales-webpack-plugin","webpack-visualizer-plugin"]
+[21:39:7.511] Result: {"cachedTypingPaths":[],"newTypingNames":["@bazel/typescript","moment-locales-webpack-plugin","webpack-visualizer-plugin"],"filesToWatch":["/home/gezim/dev/web/webpack-ts/webpack/bower_components","/home/gezim/dev/web/webpack-ts/webpack/node_modules"]}
+[21:39:7.511] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":["@bazel/typescript","moment-locales-webpack-plugin","webpack-visualizer-plugin"],"filesToWatch":["/home/gezim/dev/web/webpack-ts/webpack/bower_components","/home/gezim/dev/web/webpack-ts/webpack/node_modules"]}
+[21:39:7.512] Installing typings ["@bazel/typescript","moment-locales-webpack-plugin","webpack-visualizer-plugin"]
+[21:39:7.512] '@bazel/typescript':: Entry for package 'bazel__typescript' does not exist in local types registry - skipping...
+[21:39:7.512] 'moment-locales-webpack-plugin':: Entry for package 'moment-locales-webpack-plugin' does not exist in local types registry - skipping...
+[21:39:7.512] 'webpack-visualizer-plugin':: Entry for package 'webpack-visualizer-plugin' does not exist in local types registry - skipping...
+[21:39:7.512] All typings are known to be missing or invalid - no need to install more typings
+[21:39:7.512] Sending response:
+    {"projectName":"/dev/null/inferredProject2*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":[],"unresolvedImports":["@bazel/typescript","moment-locales-webpack-plugin","webpack-visualizer-plugin"],"kind":"action::set"}
+[21:39:7.512] Response has been sent.
+[21:43:58.638] Got install request {"projectName":"/dev/null/inferredProject2*","fileNames":["/home/gezim/dev/web/webpack-ts/node_modules/typescript/lib/lib.d.ts","/home/gezim/dev/web/webpack-ts/node_modules/typescript/lib/lib.es5.d.ts","/home/gezim/dev/web/webpack-ts/node_modules/typescript/lib/lib.dom.d.ts","/home/gezim/dev/web/webpack-ts/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","/home/gezim/dev/web/webpack-ts/node_modules/typescript/lib/lib.scripthost.d.ts","/home/gezim/dev/web/webpack-ts/webpack/utils.js","/home/gezim/dev/web/webpack-ts/webpack/webpack.common.js","/home/gezim/dev/web/webpack-ts/webpack/webpack.prod.js"],"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":["moment-locales-webpack-plugin","webpack-visualizer-plugin"],"projectRootPath":"/home/gezim/dev/web/webpack-ts/webpack","kind":"discover"}
+[21:43:58.638] Explicitly included types: []
+[21:43:58.639] Inferred typings from unresolved imports: ["moment-locales-webpack-plugin","webpack-visualizer-plugin"]
+[21:43:58.639] Result: {"cachedTypingPaths":[],"newTypingNames":["moment-locales-webpack-plugin","webpack-visualizer-plugin"],"filesToWatch":["/home/gezim/dev/web/webpack-ts/webpack/bower_components","/home/gezim/dev/web/webpack-ts/webpack/node_modules"]}
+[21:43:58.639] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":["moment-locales-webpack-plugin","webpack-visualizer-plugin"],"filesToWatch":["/home/gezim/dev/web/webpack-ts/webpack/bower_components","/home/gezim/dev/web/webpack-ts/webpack/node_modules"]}
+[21:43:58.639] Installing typings ["moment-locales-webpack-plugin","webpack-visualizer-plugin"]
+[21:43:58.639] 'moment-locales-webpack-plugin':: Entry for package 'moment-locales-webpack-plugin' does not exist in local types registry - skipping...
+[21:43:58.639] 'webpack-visualizer-plugin':: Entry for package 'webpack-visualizer-plugin' does not exist in local types registry - skipping...
+[21:43:58.639] All typings are known to be missing or invalid - no need to install more typings
+[21:43:58.639] Sending response:
+    {"projectName":"/dev/null/inferredProject2*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":[],"unresolvedImports":["moment-locales-webpack-plugin","webpack-visualizer-plugin"],"kind":"action::set"}
+[21:43:58.639] Response has been sent.

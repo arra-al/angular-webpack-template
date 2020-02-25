@@ -1,0 +1,96 @@
+[12:45:55.643] Global cache location '/home/gezim/.cache/typescript/3.7', safe file path '/home/gezim/.nvm/versions/node/v10.17.0/lib/node_modules/typescript/lib/typingSafeList.json', types map path /home/gezim/.nvm/versions/node/v10.17.0/lib/node_modules/typescript/lib/typesMap.json
+[12:45:55.644] Processing cache location '/home/gezim/.cache/typescript/3.7'
+[12:45:55.644] Trying to find '/home/gezim/.cache/typescript/3.7/package.json'...
+[12:45:55.647] Loaded content of '/home/gezim/.cache/typescript/3.7/package.json': {"private":true,"dependencies":{"types-registry":"^0.1.473"},"devDependencies":{"@types/async":"^3.0.3","@types/atob":"^2.1.2","@types/autoprefixer":"^9.6.1","@types/bootstrap":"^4.3.1","@types/browser-sync":"^2.26.1","@types/browser-sync-webpack-plugin":"^2.2.0","@types/cache-manager":"^2.10.1","@types/clean-css":"^4.2.1","@types/copy-webpack-plugin":"^5.0.0","@types/core-js":"^2.5.2","@types/d3":"^5.7.2","@types/d3-format":"^1.3.1","@types/d3-time-format":"^2.1.1","@types/debug":"^4.1.5","@types/define-properties":"^1.1.1","@types/eslint":"^6.1.3","@types/file-saver":"^2.0.1","@types/friendly-errors-webpack-plugin":"^0.1.2","@types/graceful-fs":"^4.1.3","@types/hammerjs":"^2.0.36","@types/he":"^1.1.0","@types/html-minifier":"^3.5.3","@types/html-webpack-plugin":"^3.2.1","@types/imurmurhash":"^0.1.0","@types/jest":"^24.0.24","@types/jquery":"^3.3.31","@types/jsoneditor":"^5.28.2","@types/jspdf":"^1.3.3","@types/less":"^3.0.1","@types/lodash":"^4.14.149","@types/lodash.difference":"^4.5.6","@types/mini-css-extract-plugin":"^0.9.0","@types/mkdirp":"^0.5.2","@types/node-notifier":"^5.4.0","@types/nodemon":"^1.19.0","@types/object-assign":"^4.0.30","@types/object-hash":"^1.3.0","@types/object-path":"^0.11.0","@types/optimize-css-assets-webpack-plugin":"^5.0.1","@types/pg":"^7.14.0","@types/prettier":"^1.19.0","@types/relateurl":"^0.2.28","@types/rimraf":"^2.0.3","@types/sass":"^1.16.0","@types/serialize-javascript":"^1.5.0","@types/signal-exit":"^3.0.0","@types/sockjs-client":"^1.1.1","@types/sprintf":"^0.1.0","@types/terser-webpack-plugin":"^2.2.0","@types/toposort":"^2.0.3","@types/ua-parser-js":"^0.7.33","@types/util.promisify":"^1.0.1","@types/uuid":"^3.4.6","@types/wait-on":"^3.2.0","@types/web-animations-js":"^2.2.8","@types/webpack":"^4.41.2","@types/webpack-dev-server":"^3.9.0","@types/webpack-merge":"^4.1.5","@types/webpack-notifier":"^1.5.3","@types/workbox-webpack-plugin":"^4.1.0","@types/write-file-atomic":"^3.0.0"}}
+[12:45:55.647] Loaded content of '/home/gezim/.cache/typescript/3.7/package-lock.json'
+[12:45:55.657] Adding entry into typings cache: 'async' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/async/index.d.ts'
+[12:45:55.663] Adding entry into typings cache: 'atob' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/atob/index.d.ts'
+[12:45:55.666] Adding entry into typings cache: 'autoprefixer' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/autoprefixer/index.d.ts'
+[12:45:55.669] Adding entry into typings cache: 'bootstrap' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/bootstrap/index.d.ts'
+[12:45:55.672] Adding entry into typings cache: 'browser-sync' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/browser-sync/index.d.ts'
+[12:45:55.673] Adding entry into typings cache: 'browser-sync-webpack-plugin' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/browser-sync-webpack-plugin/index.d.ts'
+[12:45:55.675] Adding entry into typings cache: 'cache-manager' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/cache-manager/index.d.ts'
+[12:45:55.679] Adding entry into typings cache: 'clean-css' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/clean-css/index.d.ts'
+[12:45:55.682] Adding entry into typings cache: 'copy-webpack-plugin' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/copy-webpack-plugin/index.d.ts'
+[12:45:55.684] Adding entry into typings cache: 'core-js' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/core-js/index.d.ts'
+[12:45:55.688] Adding entry into typings cache: 'd3' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/d3/index.d.ts'
+[12:45:55.691] Adding entry into typings cache: 'd3-format' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/d3-format/index.d.ts'
+[12:45:55.693] Adding entry into typings cache: 'd3-time-format' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/d3-time-format/index.d.ts'
+[12:45:55.697] Adding entry into typings cache: 'debug' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/debug/index.d.ts'
+[12:45:55.699] Adding entry into typings cache: 'define-properties' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/define-properties/index.d.ts'
+[12:45:55.703] Adding entry into typings cache: 'eslint' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/eslint/ts3.1/index.d.ts'
+[12:45:55.704] Adding entry into typings cache: 'file-saver' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/file-saver/index.d.ts'
+[12:45:55.706] Adding entry into typings cache: 'friendly-errors-webpack-plugin' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/friendly-errors-webpack-plugin/index.d.ts'
+[12:45:55.709] Adding entry into typings cache: 'graceful-fs' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/graceful-fs/index.d.ts'
+[12:45:55.710] Adding entry into typings cache: 'hammerjs' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/hammerjs/index.d.ts'
+[12:45:55.712] Adding entry into typings cache: 'he' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/he/index.d.ts'
+[12:45:55.713] Adding entry into typings cache: 'html-minifier' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/html-minifier/index.d.ts'
+[12:45:55.715] Adding entry into typings cache: 'html-webpack-plugin' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/html-webpack-plugin/index.d.ts'
+[12:45:55.716] Adding entry into typings cache: 'imurmurhash' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/imurmurhash/index.d.ts'
+[12:45:55.719] Adding entry into typings cache: 'jest' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/jest/index.d.ts'
+[12:45:55.722] Adding entry into typings cache: 'jquery' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/jquery/index.d.ts'
+[12:45:55.724] Adding entry into typings cache: 'jsoneditor' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/jsoneditor/index.d.ts'
+[12:45:55.725] Adding entry into typings cache: 'jspdf' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/jspdf/index.d.ts'
+[12:45:55.727] Adding entry into typings cache: 'less' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/less/index.d.ts'
+[12:45:55.729] Adding entry into typings cache: 'lodash' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/lodash/ts3.1/index.d.ts'
+[12:45:55.732] Adding entry into typings cache: 'lodash.difference' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/lodash.difference/index.d.ts'
+[12:45:55.734] Adding entry into typings cache: 'mini-css-extract-plugin' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/mini-css-extract-plugin/index.d.ts'
+[12:45:55.737] Adding entry into typings cache: 'mkdirp' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/mkdirp/index.d.ts'
+[12:45:55.740] Adding entry into typings cache: 'node-notifier' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/node-notifier/index.d.ts'
+[12:45:55.742] Adding entry into typings cache: 'nodemon' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/nodemon/index.d.ts'
+[12:45:55.744] Adding entry into typings cache: 'object-assign' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/object-assign/index.d.ts'
+[12:45:55.746] Adding entry into typings cache: 'object-hash' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/object-hash/index.d.ts'
+[12:45:55.747] Adding entry into typings cache: 'object-path' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/object-path/index.d.ts'
+[12:45:55.748] Adding entry into typings cache: 'optimize-css-assets-webpack-plugin' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/optimize-css-assets-webpack-plugin/index.d.ts'
+[12:45:55.749] Adding entry into typings cache: 'pg' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/pg/index.d.ts'
+[12:45:55.751] Adding entry into typings cache: 'prettier' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/prettier/index.d.ts'
+[12:45:55.752] Adding entry into typings cache: 'relateurl' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/relateurl/index.d.ts'
+[12:45:55.753] Adding entry into typings cache: 'rimraf' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/rimraf/index.d.ts'
+[12:45:55.754] Adding entry into typings cache: 'sass' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/sass/index.d.ts'
+[12:45:55.755] Adding entry into typings cache: 'serialize-javascript' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/serialize-javascript/index.d.ts'
+[12:45:55.757] Adding entry into typings cache: 'signal-exit' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/signal-exit/index.d.ts'
+[12:45:55.758] Adding entry into typings cache: 'sockjs-client' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/sockjs-client/index.d.ts'
+[12:45:55.759] Adding entry into typings cache: 'sprintf' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/sprintf/index.d.ts'
+[12:45:55.761] Adding entry into typings cache: 'terser-webpack-plugin' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/terser-webpack-plugin/index.d.ts'
+[12:45:55.762] Adding entry into typings cache: 'toposort' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/toposort/index.d.ts'
+[12:45:55.763] Adding entry into typings cache: 'ua-parser-js' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/ua-parser-js/index.d.ts'
+[12:45:55.764] Adding entry into typings cache: 'util.promisify' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/util.promisify/index.d.ts'
+[12:45:55.766] Adding entry into typings cache: 'uuid' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/uuid/index.d.ts'
+[12:45:55.767] Adding entry into typings cache: 'wait-on' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/wait-on/index.d.ts'
+[12:45:55.769] Adding entry into typings cache: 'web-animations-js' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/web-animations-js/ts3.2/index.d.ts'
+[12:45:55.771] Adding entry into typings cache: 'webpack' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/webpack/index.d.ts'
+[12:45:55.772] Adding entry into typings cache: 'webpack-dev-server' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/webpack-dev-server/index.d.ts'
+[12:45:55.773] Adding entry into typings cache: 'webpack-merge' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/webpack-merge/index.d.ts'
+[12:45:55.775] Adding entry into typings cache: 'webpack-notifier' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/webpack-notifier/index.d.ts'
+[12:45:55.776] Adding entry into typings cache: 'workbox-webpack-plugin' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/workbox-webpack-plugin/index.d.ts'
+[12:45:55.777] Adding entry into typings cache: 'write-file-atomic' => '/home/gezim/.cache/typescript/3.7/node_modules/@types/write-file-atomic/index.d.ts'
+[12:45:55.777] Finished processing cache location '/home/gezim/.cache/typescript/3.7'
+[12:45:55.777] Process id: 9609
+[12:45:55.777] NPM location: /home/gezim/.nvm/versions/node/v10.17.0/bin/npm (explicit '--npmLocation' not  provided)
+[12:45:55.777] validateDefaultNpmLocation: false
+[12:45:55.777] Npm config file: /home/gezim/.cache/typescript/3.7/package.json
+[12:45:55.778] Updating types-registry npm package...
+[12:45:55.778] Exec: /home/gezim/.nvm/versions/node/v10.17.0/bin/npm install --ignore-scripts types-registry@latest
+[12:45:58.534]     Succeeded. stdout:
+    + types-registry@0.1.473
+    updated 1 package and audited 4660 packages in 2.219s
+found 0 vulnerabilities
+
+
+[12:45:58.534] Updated types-registry npm package
+[12:46:1.697] Got install request {"projectName":"/dev/null/inferredProject1*","fileNames":["/home/gezim/.nvm/versions/node/v10.17.0/lib/node_modules/typescript/lib/lib.d.ts","/home/gezim/.nvm/versions/node/v10.17.0/lib/node_modules/typescript/lib/lib.es5.d.ts","/home/gezim/.nvm/versions/node/v10.17.0/lib/node_modules/typescript/lib/lib.dom.d.ts","/home/gezim/.nvm/versions/node/v10.17.0/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","/home/gezim/.nvm/versions/node/v10.17.0/lib/node_modules/typescript/lib/lib.scripthost.d.ts","/home/gezim/dev/web/webpack-ts/webpack/utils.js","/home/gezim/dev/web/webpack-ts/webpack/webpack.common.js","/home/gezim/dev/web/webpack-ts/webpack/webpack.prod.js"],"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":["@bazel/typescript","moment-locales-webpack-plugin","webpack-visualizer-plugin"],"projectRootPath":"/home/gezim/dev/web/webpack-ts/webpack","kind":"discover"}
+[12:46:1.709] Loaded safelist from types map file '/home/gezim/.nvm/versions/node/v10.17.0/lib/node_modules/typescript/lib/typesMap.json'
+[12:46:1.710] Explicitly included types: []
+[12:46:1.711] Inferred typings from unresolved imports: ["@bazel/typescript","moment-locales-webpack-plugin","webpack-visualizer-plugin"]
+[12:46:1.711] Result: {"cachedTypingPaths":[],"newTypingNames":["@bazel/typescript","moment-locales-webpack-plugin","webpack-visualizer-plugin"],"filesToWatch":["/home/gezim/dev/web/webpack-ts/webpack/bower_components","/home/gezim/dev/web/webpack-ts/webpack/node_modules"]}
+[12:46:1.711] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":["@bazel/typescript","moment-locales-webpack-plugin","webpack-visualizer-plugin"],"filesToWatch":["/home/gezim/dev/web/webpack-ts/webpack/bower_components","/home/gezim/dev/web/webpack-ts/webpack/node_modules"]}
+[12:46:1.712] DirectoryWatcher:: Added:: WatchInfo: /home/gezim/dev/web/webpack-ts/webpack/bower_components
+[12:46:1.714] DirectoryWatcher:: Added:: WatchInfo: /home/gezim/dev/web/webpack-ts/webpack/node_modules
+[12:46:1.714] Installing typings ["@bazel/typescript","moment-locales-webpack-plugin","webpack-visualizer-plugin"]
+[12:46:1.714] '@bazel/typescript':: Entry for package 'bazel__typescript' does not exist in local types registry - skipping...
+[12:46:1.715] 'moment-locales-webpack-plugin':: Entry for package 'moment-locales-webpack-plugin' does not exist in local types registry - skipping...
+[12:46:1.715] 'webpack-visualizer-plugin':: Entry for package 'webpack-visualizer-plugin' does not exist in local types registry - skipping...
+[12:46:1.715] All typings are known to be missing or invalid - no need to install more typings
+[12:46:1.715] Sending response:
+    {"projectName":"/dev/null/inferredProject1*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":[],"unresolvedImports":["@bazel/typescript","moment-locales-webpack-plugin","webpack-visualizer-plugin"],"kind":"action::set"}
+[12:46:1.715] Response has been sent.

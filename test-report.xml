@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testExecutions version="1">
+  <file path="/home/gezim/dev/web/webpack-ts/src/test/spec/app.component.spec.ts">
+    <testCase name="AppComponent should create the app" duration="138"/>
+    <testCase name="AppComponent should have as title &apos;ng-demo&apos;" duration="71"/>
+    <testCase name="AppComponent should render title" duration="65"/>
+  </file>
+</testExecutions>
