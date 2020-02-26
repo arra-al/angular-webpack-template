@@ -38,3 +38,9 @@ testem.log
 .DS_Store
 Thumbs.db
 package-lock.json
+
+# custom files
+/.log
+/cache
+/test
+/test-results
